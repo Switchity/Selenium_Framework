@@ -1,7 +1,18 @@
-Got it ✅
-Here’s a **detailed `README.md`** for your **Selenium POM Framework** that looks professional, explains everything step by step, and makes it easy for anyone (including future teammates) to understand and use the project.
+or create a new repository on the command line
+echo "# Selenium_Framework" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Switchity/Selenium_Framework.git
+git push -u origin master
 
----
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/Switchity/Selenium_Framework.git
+git branch -M master
+git push -u origin master
 
 # 📘 Selenium Framework (Python + Pytest + POM)
 
